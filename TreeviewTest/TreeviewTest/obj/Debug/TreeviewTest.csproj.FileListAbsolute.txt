@@ -12,3 +12,18 @@ E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\Treeview
 E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.csproj.GenerateResource.Cache
 E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.exe
 E:\Earth\Install_program\Visual Studio 2010 Ultimate x86-TKiSO\Projects\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.pdb
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\bin\Debug\TreeviewTest.exe.config
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\bin\Debug\TreeviewTest.exe
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\bin\Debug\TreeviewTest.pdb
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.csprojResolveAssemblyReference.cache
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\MainWindow.g.cs
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\App.g.cs
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest_MarkupCompile.cache
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest_MarkupCompile.lref
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\MainWindow.baml
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.g.resources
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.Properties.Resources.resources
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.csproj.GenerateResource.Cache
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.exe
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\TreeviewTest.pdb
+C:\Users\okfee\Documents\GitHub\Treeview\TreeviewTest\TreeviewTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
